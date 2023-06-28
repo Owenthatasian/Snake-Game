@@ -1,4 +1,5 @@
 # Snake-Game
-100 days snake game
 
-player uses the 4 arrow keys to control the snake
+Player uses the 4 arrow keys to control the snake.
+The game will end when snake head hits its body or when snake hits any of the walls.
+Snake grows 1 unit larger when it eats a fruit.
